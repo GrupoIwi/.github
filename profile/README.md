@@ -6,5 +6,5 @@
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/company/grupoiwi-proteccion-de-datos/]
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/8844134/134501253-dc43236f-4e9d-49b4-9202-4c2622e7500b.png" width="150">      
+<img src=https://www.grupoiwi.com/wp-content/uploads/elementor/thumbs/GrupoIWI-pq-p23n6kahyylvpbxs6i3okvqfdrlgbris3efry88hvq.png" width="150">      
 </p>
