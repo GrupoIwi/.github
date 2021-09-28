@@ -1,10 +1,12 @@
 
-[![LinkedIn][linkedin-shield]][linkedin-url] departamento.ti@grupoiwi.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="center">
   <img src=https://www.grupoiwi.com/wp-content/uploads/elementor/thumbs/GrupoIWI-pq-p23n6kahyylvpbxs6i3okvqfdrlgbris3efry88hvq.png" width="400">      
                                                                                                                                                
   <h3 align="center">Departamento TI</h3>
+                    <h5 align="center">departamento.ti@grupoiwi.com</h5>
+                    
 </p>
 
                     
